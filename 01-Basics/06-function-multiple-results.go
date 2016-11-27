@@ -13,5 +13,5 @@ func main() {
 	fmt.Println(swap("a", "b"))
 
 	s1, s2 := swap("World", "Hello")
-	fmt.Println(s1,s2)
+	fmt.Println(s1, s2)
 }
